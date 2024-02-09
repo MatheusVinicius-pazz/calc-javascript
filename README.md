@@ -1,2 +1,2 @@
 # calc-javascript
-Calculadora usando as tcnologias html, css, javascript.
+Calculadora usando as tecnologias html, css, javascript.
