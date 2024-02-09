@@ -9,11 +9,15 @@ a {
 a:visited {
     color:#242529;
     text-decoration: none;
+    font-size: 35px;
 }
-a:hover {color:#73cee6;}
+a:hover {color:#b1babd;
+font-size: 35px;
+}
+
 
 body {
-    background-image: linear-gradient(to right, #73cee6 , #33778a);
+    background-image: linear-gradient(to right, #80838b , #54eb89);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -32,7 +36,7 @@ body {
     height: 125px;
     display: inline-block;
     background: #191a1c;
-    color: #969ea5;
+    color: #0662b3;
     font-size: 40px;
     text-align: center;
     vertical-align: middle !important;
@@ -42,7 +46,7 @@ body {
 }
 
 .numeric:active {
-    background: #f0f0f5 !important;
+    background: #191a1c !important;
     color: #191a1c !important;
 }
 
@@ -51,11 +55,11 @@ body {
 }
 
 .action {
-    background: #242529;
+    background: #1db954;
 }
 
 .result {
-    background: #267e94 !important;
+    background: #1db954 !important;
 }
 
 .visor {
@@ -66,7 +70,7 @@ body {
 }
 
 .total {
-    color: #242529;
+    color: #1db954;
     width: 500px;
     font-size: 70px;
     text-align: right;
@@ -87,7 +91,7 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
-    color: white;
+    color: rgb(202, 104, 104);
     text-align: center;
     height: 40px;
 }
